@@ -1,0 +1,13 @@
+{
+	"blockAtlas": "https://i.imgur.com/v0ToJXM.png",
+	"skyBoxes": {
+		"default": {
+			"type": "custom",
+			"nx": "https://i.imgur.com/letiiDk.jpeg",
+			"ny": "https://i.imgur.com/FmRBMuV.jpeg",
+			"nz": "https://i.imgur.com/nm0BOjx.jpeg",
+			"px": "https://i.imgur.com/yLdeQGz.jpeg",
+			"py": "https://i.imgur.com/soQHBMK.jpeg",
+			"pz": "https://i.imgur.com/8UDDzVg.jpeg"
+		}
+	
